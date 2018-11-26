@@ -193,8 +193,8 @@ HOST = 'rm-bp13i6zc471eq553puo.mysql.rds.aliyuncs.com'
 PORT = 3306
 USER = 'crmdev'
 PASSWORD = '309fJOJHJdkdu'
-DATABASE = 'pythondata'
-# DATABASE = 'pythondata_month'
+# DATABASE = 'pythondata'
+DATABASE = 'pythondata_month'
 
 # =========== 阿里云线上python Mysql ===========
 HOST_CRM = 'rm-bp13i6zc471eq553puo.mysql.rds.aliyuncs.com'
