@@ -1,7 +1,0 @@
-1542959396046	mozrunner::runner	INFO	Running command: "C:\\01-software\\14-firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yu\\AppData\\Local\\Temp\\rust_mozprofile.vnB5dtMf57RV"
-1542959400586	Marionette	INFO	Listening on port 57753
-1542959401212	Marionette	WARN	TLS certificate errors will be ignored for this session
-1542960044108	mozrunner::runner	INFO	Running command: "C:\\01-software\\14-firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "lang=zh_CN.UTF-8" "--hide-scrollbars" "blink-settings=imagesEnabled=false" "window-size=1440x900" "-foreground" "-no-remote" "-profile" "C:\\Users\\yu\\AppData\\Local\\Temp\\rust_mozprofile.s9ICQtozdOYD"
-*** You are running in headless mode.
-1542960047699	Marionette	INFO	Listening on port 59488
-1542960048240	Marionette	WARN	TLS certificate errors will be ignored for this session
