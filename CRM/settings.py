@@ -201,8 +201,8 @@ HOST_CRM = 'rm-bp13i6zc471eq553puo.mysql.rds.aliyuncs.com'
 PORT_CRM = 3306
 USER_CRM = 'crmdev'
 PASSWORD_CRM = '309fJOJHJdkdu'
-# DATABASE_CRM = 'prodcrmdata'
-DATABASE_CRM = 'crmtestdata'
+DATABASE_CRM = 'prodcrmdata'
+# DATABASE_CRM = 'crmtestdata'
 
 # ============== 保存log信息 ===================================
 # if 'indow' in platform.system():
